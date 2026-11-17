@@ -1,0 +1,25 @@
+# NOTICE
+
+This project contains material from third parties.
+
+## ultimate-frontend-design
+
+- **Location:** `vendor/ultimate-frontend-design/`
+- **Source:** https://github.com/kesslerio/ultimate-frontend-design-openclaw-skill
+- **Version:** 0.1.0
+- **License:** Apache License 2.0 (full text in `vendor/ultimate-frontend-design/LICENSE`)
+- **Modifications:** None. Files are included as-is, with only the `.git` directory removed.
+- **Purpose:** Used as the built-in frontend generation engine invoked by `SKILL.md`.
+
+Apache License 2.0 requires that the original copyright notice and license text be
+preserved, and that modified files be marked. This upstream code is unmodified.
+
+## Project-owned material
+
+The following files are original work and licensed under the MIT License
+(see `LICENSE`):
+
+- `SKILL.md` — routing rules, execution flow, acceptance criteria
+- `README.md`
+- `NOTICE`
+- `LICENSE` (MIT portion only)
